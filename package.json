@@ -28,6 +28,7 @@
   "dependencies": {
     "diagnose-healthy": "^1.1.2",
     "lodash": "^4.17.21",
+    "onedionys-validation-library": "^4.0.3",
     "only-learning": "^1.0.8"
   },
   "bugs": {
